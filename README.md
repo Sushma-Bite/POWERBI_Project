@@ -1,2 +1,2 @@
 # POWERBI_Project
-Insurance Data Analysis.
+Store Profit Sales Analysis
